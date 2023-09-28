@@ -1,0 +1,2 @@
+find /home/ubuntu/898557-linux-permissions-fixing -type d -exec chmod 775 {} \; -> folders
+find /home/ubuntu/898557-linux-permissions-fixing -type f -exec chmod 644 {} \; -> files
